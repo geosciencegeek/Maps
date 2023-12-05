@@ -1,0 +1,139 @@
+```
+# ---------------Renegade --------------------
+Premium + 1148592256350179459 1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad  <t:1698897600:F>
+Left:
+Right: 
+Left: ``X``
+Right: ``X``
+
+EU2DuoEU3MainUS3QuadUS1Duo_
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad & US 1x Monthly Duo  <t:1698897600:F>
+Left: 
+Right: 
+Left: ``X``
+Right: ``X``  
+
+EU3DuoUS3DuoUS1Quad_
+EU 3x Monthly Duo & US 3x Monthly Duo & US 1x Monthly Quad  <t:1698897600:F>
+Left: 
+Right: 
+Left: ``X``
+Right:``X``
+
+EU2SoloEU2QuadUS1Main_
+EU 2x Monthly Solo & EU 2x Monthly Quad & US 1x Monthly Main  <t:1698897600:F>
+Left: 
+Right:
+Left: ``X``
+Right: ``X``
+
+US2SoloUS2QuadEU2Low_
+US 2x Monthly Solo & US 2x Monthly Quad & EU 2x Monthly Low   <t:1698897600:F>
+Left:
+Right: 
+Left: ``X``
+Right:``X``
+
+US2Main_
+US 2x Monthly Main  <t:1698872400:F>
+Left: 
+Right: 
+Left: ``X``
+Right: ``X``
+
+EU2Main_
+EU 2x Monthly Main  <t:1698872400:F>
+Left: 
+Right:
+Left: ``X``
+Right: ``X``
+
+USSmallEUSmall_
+US 2x Monthly Small & EU 2x Small <t:1698897600:F>
+Left: 
+Right: 
+Left: ``X``
+Right: ``X``
+
+
+Extra 3500s
+A: (Missing Air Sat) https://rustmaps.com/map/1a9e195f6f2649a2b6ae8c5e3bd54ba5?embed=img_i_l
+``X``
+
+B: (Missing Air Water Sat) https://rustmaps.com/map/fa772a20d38e40eab863dfa89d41e9fd?embed=img_i_l
+``X``
+
+C: (Missing Air Water Sat) https://rustmaps.com/map/df9e4113d0504033bef970552f540453?embed=img_i_l
+``X``
+
+D: (Missing Air Sat) https://rustmaps.com/map/6cc6678f43734c9a97a38e2825fbeea0?embed=img_i_l
+``X``
+
+E: (Missing Air Water Sat) https://rustmaps.com/map/416deb35e01144a1a1c0422701d3bdd9?embed=img_i_l
+``X``
+
+F: (Missing Air Water Sat) https://rustmaps.com/map/c8f21c961f1a43b4aa9c2a6d836d274f?embed=img_i_l
+``hX``
+
+G: (Missing Air Sat) https://rustmaps.com/map/55471155e3014f0a97e3ab1c3556d96f?embed=img_i_l
+``X``
+
+H: (Missing Air Sat) https://rustmaps.com/map/377eb6a75b144f159748ec95d147bf9a?embed=img_i_l
+``X``
+
+
+
+# ------------------------RustStatic ----------------------------
+Voting Ends: <t:1698897600:F>
+EU2Duo_AU2Quad_US2Main_
+EU 2x Monthly Duo / AU 2x Monthly Quad / US 2x Monthly Main
+Left:  
+Right: 
+Left: ``X``
+Right:``X``
+
+US2Duo_EU2Quad_AU2Main_
+US 2x Monthly Duo / EU 2x Monthly Quad / AU 2x Monthly Main
+Left: 
+Right: 
+Left: ``X``
+Right: ``X``
+
+AU2Duo_US2Quad_EU2Main_
+AU 2x Monthly Duo / US 2x Monthly Quad / EU 2x Monthly Main
+Left: 
+Right:
+Left:``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1696478400:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_
+2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+Left:
+Right:
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo_
+2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+Left:
+Right:
+Left: ``X``
+Right: ``X``
+
+
+2xTrio_
+2x Monthly Trio <t:1696478400:F>
+Left: 
+Right:
+Left: ``X``
+Right: ``X``
