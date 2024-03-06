@@ -1,66 +1,57 @@
 # Byte Panel --------------------------------------------------------------------------------------------------------------
-RR EU 2x Small Left:
+RR EU 2x Small 
 ````
 
 
-RR EU 2x Quad Right: 
+RR EU 2x Quad 
 ````
 
 
-RR EU 2x Low Left: 
+RR EU 2x Low 
 ````
 
 
-RR EU 3x Quad Left:
+RR EU 3x Quad 
 ````
 
 
-RR EU 2x  Main Right: 
+RR EU 2x  Main 
 ````
 
 
-RR US 3x Main Left:
+RR US 3x Main 
 ````
 
 
-RR US 3x Quad Left:
- ````
-
-
-RR US 3x Duo Left: 
+RR US 3x Quad
 ````
 
 
-RR EU 2x Duo Left:
- ````
-
-
-RR EU 3x Main Left:
- ````
-
-
-RR EU 2x Solo Right: 
+RR US 3x Duo 
 ````
 
 
-RR US Vanilla Main Right: 
+RR EU 2x Duo 
 ````
 
 
-RR US Vanilla Quad Left: 
+RR EU 3x Main 
+````
+
+RR EU 2x Main II
+````
+
+RR EU 2x Solo 
 ````
 
 
-RR US 2x Solo Left: 
+RR US 2x Solo
 ````
 
 
-RR EU 3x Duo Left: 
+RR EU 3x Duo 
 ````
 
-
-RR US Vanilla Duo Left:
- ````
 
 RR US 2x Main:
 ````
@@ -78,54 +69,54 @@ Rustolution 2x Monthly Trio
 Left: ````
 
 
-Rustolution 2x Monthly Duo Left: 
+Rustolution 2x Monthly Duo : 
 ````
 
 
-RR US 2x DUO Left:
+RR US 2x DUO :
+````
+
+
+RR US 2x Small  
  ````
 
 
-RR US 2x Small Left:
- ````
-
-
-RR US 2x Main Right: 
+RR US 2x Main : 
 ````
 
 
-RR US 2x Quad Left: 
+RR US 2x Quad : 
 ````
 
 
-Rustolution 2x Monthly Solo Left:
+Rustolution 2x Monthly Solo :
  ````
 
 # RustStatic -------------------------------------------------------------------------------------------------------------
 
-EU Duo Right:
+EU Duo 
 ````
 
 
-EU Quad Right: 
+EU Quad
 ````
 
 
-EU Main Right:
+EU Main
  ````
 
 
-US Duo Right: 
+US Duo 
 ````
 
 
-US Quad Right: 
+US Quad 
 ````
 
 
-US Main Right:
+US Main 
 ````
 
 
-AU Main Right: 
+AU Main 
 ````

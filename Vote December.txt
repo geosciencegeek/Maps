@@ -60,31 +60,31 @@ Right: ``X``
 
 Extra 3500s
 A: (Missing Air Sat) https://rustmaps.com/map/97ef24e61ae3487386bf91095ec727c9?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/A_3500_1207.map``
 
 B: (Missing Air Water Sat) https://rustmaps.com/map/96613445ad2d443981927b51633fe5f8?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/B_3500_1207.map``
 
 C: (Missing Air Water Sat) https://rustmaps.com/map/c1ec7a7fdf1946d3879acb608b1828ba?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/C_3500_1207.map``
 
 D: (Missing Air Sat) https://rustmaps.com/map/da33aab7400e406fa7c0161be9c012a6?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/D_3500_1207.map``
 
 E: (Missing Air Water Sat) https://rustmaps.com/map/51357944bec24037956844c1bad3fa8a?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/E_3500_1207.map``
 
 F: (Missing Air Water Sat) https://rustmaps.com/map/6f318bff2ae24aeaa78be71761a32f1a?embed=img_i_l
-``hX``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/F_3500_1207.map``
 
 G: (Missing Air Sat) https://rustmaps.com/map/da33aab7400e406fa7c0161be9c012a6?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/G_3500_1207.map``
 
 H: (Missing Air Sat) https://rustmaps.com/map/e0e7618f7416483dae3354a68f283709?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/H_3500_1207.map``
 
 I: (Missing Air Sat) https://rustmaps.com/map/6a47f0ec197d47d886e3ff88763785f0?embed=img_i_l
-``X``
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/H_3500_1207.map``
 
 
 
