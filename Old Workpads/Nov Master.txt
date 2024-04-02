@@ -1,0 +1,139 @@
+```
+# ---------------Renegade --------------------
+Premium + 1148592256350179459 1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_Right
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad  <t:1698897600:F>
+Left: https://rustmaps.com/map/e08043c26c7e4ffcbecda0be8dcab7ce?embed=img_i_l
+Right: https://rustmaps.com/map/3a94ac81f3f4421aa07e3b73e97663a0?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/US2DuoUS3MainEU3Quad_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/US2DuoUS3MainEU3Quad_Right.map``
+
+EU2DuoEU3MainUS3QuadUS1Duo_Right 
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad & US 1x Monthly Duo  <t:1698897600:F>
+Left: https://rustmaps.com/map/5a7a23e4c93143d59aee2286f04f60b3?embed=img_i_l
+Right: https://rustmaps.com/map/f0f9fc1428ff462eb91cec9ed4d0876c?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU2DuoEU3MainUS3QuadUS1Duo_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU2DuoEU3MainUS3QuadUS1Duo_Right.map``  
+
+EU3DuoUS3DuoUS1Quad_Right
+EU 3x Monthly Duo & US 3x Monthly Duo & US 1x Monthly Quad  <t:1698897600:F>
+Left: https://rustmaps.com/map/11ba2876e04348a0b563fddfeef23520?embed=img_i_l
+Right: https://rustmaps.com/map/d5068d202021450f8a7c789d608cc234?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU3DuoUS3DuoUS1Quad_Left.map``
+Right:``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU3DuoUS3DuoUS1Quad_Right.map``
+
+EU2SoloEU2QuadUS1Main_Right
+EU 2x Monthly Solo & EU 2x Monthly Quad & US 1x Monthly Main  <t:1698897600:F>
+Left: https://rustmaps.com/map/8ee28c0d9cd440dfacba9a038f7dc427?embed=img_i_l
+Right: https://rustmaps.com/map/63d3abbaae424fa992c3e6c66938d4e0?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU2SoloEU2QuadUS1Main_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/EU2SoloEU2QuadUS1Main_Right.map``
+
+US2SoloUS2QuadEU2Low_Left
+US 2x Monthly Solo & US 2x Monthly Quad & EU 2x Monthly Low   <t:1698897600:F>
+Left: https://rustmaps.com/map/6166b9611ba048189ebd4e934d56b4bc?embed=img_i_l
+Right: https://rustmaps.com/map/40728ab9271d42ad95a171d49fdd2665?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/US2SoloUS2QuadEU2Low_Left.map``
+Right:``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4000/US2SoloUS2QuadEU2Low_Right.map``
+
+US2Main_Left
+US 2x Monthly Main  <t:1698872400:F>
+Left:  https://rustmaps.com/map/0cdc5f746ae04c0ca7e7caa95564c597?embed=img_i_l
+Right: https://rustmaps.com/map/9f5caa01639f43c687869a9fd697f181?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4500/USMain_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4500/USMain_Right.map``
+
+EU2Main_Right
+EU 2x Monthly Main  <t:1698872400:F>
+Left: https://rustmaps.com/map/c6349dbe2ba6490288f890e28498c001?embed=img_i_l
+Right: https://rustmaps.com/map/95dca81d85c54c5db7f4ba562b07a889?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4500/EUMain_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/4500/EUMain_Right.map``
+
+USSmallEUSmall_ Left
+US 2x Monthly Small & EU 2x Small <t:1698897600:F>
+Left: https://rustmaps.com/map/36822ac44fd2488d8abb4c2693cd3f37?embed=img_i_l
+Right: https://rustmaps.com/map/8370371034cc4c71a4520dd84a6f64ba?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/USSmallEUSmall_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/USSmallEUSmall_Right.map``
+
+
+Extra 3500s
+A: (Missing Air Sat) https://rustmaps.com/map/1a9e195f6f2649a2b6ae8c5e3bd54ba5?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_A.map``
+
+B: (Missing Air Water Sat) https://rustmaps.com/map/fa772a20d38e40eab863dfa89d41e9fd?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_B.map``
+
+C: (Missing Air Water Sat) https://rustmaps.com/map/df9e4113d0504033bef970552f540453?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_C.map``
+
+D: (Missing Air Sat) https://rustmaps.com/map/6cc6678f43734c9a97a38e2825fbeea0?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_D.map``
+
+E: (Missing Air Water Sat) https://rustmaps.com/map/416deb35e01144a1a1c0422701d3bdd9?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_E.map``
+
+F: (Missing Air Water Sat) https://rustmaps.com/map/c8f21c961f1a43b4aa9c2a6d836d274f?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_F.map``
+
+G: (Missing Air Sat) https://rustmaps.com/map/55471155e3014f0a97e3ab1c3556d96f?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_G.map``
+
+H: (Missing Air Sat) https://rustmaps.com/map/377eb6a75b144f159748ec95d147bf9a?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/11-2023-NovemberWipe/3500/3500_H.map``
+
+
+
+# ------------------------RustStatic ----------------------------
+Voting Ends: <t:1698897600:F>
+EU2Duo_AU2Quad_US2Main_Right 
+EU 2x Monthly Duo / AU 2x Monthly Quad / US 2x Monthly Main
+Left:  https://rustmaps.com/map/5f2550b359224197a5b5bb7aee855f0b?embed=img_i_l
+Right: https://rustmaps.com/map/e933b010ab1c4f50b35c085c455480c8?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/EU2Duo_AU2Quad_US2Main_Left.map``
+Right:``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/EU2Duo_AU2Quad_US2Main_Right.map``
+
+US2Duo_EU2Quad_AU2Main_Right
+US 2x Monthly Duo / EU 2x Monthly Quad / AU 2x Monthly Main
+Left: https://rustmaps.com/map/c460c6f75c3740a48b0742aeb7d32d5b?embed=img_i_l
+Right: https://rustmaps.com/map/c46389f7492d45768f92efcd34f8293a?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/US2Duo_EU2Quad_AU2Main_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/US2Duo_EU2Quad_AU2Main_Right.map``
+
+AU2Duo_US2Quad_EU2Main_Left
+AU 2x Monthly Duo / US 2x Monthly Quad / EU 2x Monthly Main
+Left: https://rustmaps.com/map/61e2ad2ab44e4bc0bc8969bba2f51a32?embed=img_i_l
+Right: https://rustmaps.com/map/ac3ef11a2f354fdba8b9ac3e0f9d0f06?embed=img_i_l
+Left:``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/AU2Duo_US2Quad_EU2Main_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/RustStatic/11-2023-November/AU2Duo_US2Quad_EU2Main_Right.map``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1696478400:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_Left
+2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+Left: https://rustmaps.com/map/e148d108e318402cab1cc38204e31137?embed=img_i_l
+Right: https://rustmaps.com/map/3775f8360e414f26a344a5cb21c9f933?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xMain2xDuo_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xMain2xDuo_Right.map``
+
+2xQuad2xSolo_Right
+2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+Left: https://rustmaps.com/map/ebb93042a05b4a9f94e9407553ad5895?embed=img_i_l
+Right: https://rustmaps.com/map/7168e370cf5d44d98f9151943e2ae9cf?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xQuad2xSolo_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xQuad2xSolo_Right.map``
+
+
+2xTrio_Left
+2x Monthly Trio <t:1696478400:F>
+Left: https://rustmaps.com/map/58f4d20212414f8ebeec7718a863dc4e?embed=img_i_l
+Right: https://rustmaps.com/map/51b04e715a24462ea10db21ca09db265?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xTrio_Left.map``
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/11-November/2xTrio_Right.map``

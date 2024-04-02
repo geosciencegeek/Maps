@@ -1,97 +1,51 @@
 # Byte Panel --------------------------------------------------------------------------------------------------------------
 RR EU 2x Small 
-````
-
-
+``````
 RR EU 2x Quad 
-````
-
-
+``````
 RR EU 2x Low 
-````
-
-
+``````
 RR EU 3x Quad 
-````
-
-
+``````
 RR EU 2x  Main 
-````
-
-
+``````
 RR US 3x Main 
-````
-
-
+``````
 RR US 3x Quad
-````
-
-
+``````
 RR US 3x Duo 
-````
-
-
+``````
 RR EU 2x Duo 
-````
-
-
+``````
 RR EU 3x Main 
-````
-
+``````
 RR EU 2x Main II
-````
-
+``````
 RR EU 2x Solo 
-````
-
-
+``````
 RR US 2x Solo
-````
-
-
+``````
 RR EU 3x Duo 
-````
-
-
+``````
 RR US 2x Main:
-````
-
+``````
 # Aspect Panel --------------------------------------------------------------------------
 Rustolution 2x Monthly Main
-Left: ````
-
-
+``````
 Rustolution 2x Monthly Quad
-Left: ````
-
-
+``````
 Rustolution 2x Monthly Trio
-Left: ````
-
-
+``````
 Rustolution 2x Monthly Duo : 
-````
-
-
+``````
 RR US 2x DUO :
-````
-
-
+``````
 RR US 2x Small  
- ````
-
-
-RR US 2x Main : 
-````
-
-
+``````
 RR US 2x Quad : 
-````
-
-
+``````
 Rustolution 2x Monthly Solo :
- ````
-
+``````
 # RustStatic -------------------------------------------------------------------------------------------------------------
 
 EU Duo 
