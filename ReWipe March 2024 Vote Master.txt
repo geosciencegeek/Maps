@@ -1,0 +1,73 @@
+```
+# ---------------Renegade --------------------
+Premium +  1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad Voting Ends: <t:1709791140:F>
+Right: https://rustmaps.com/map/717eb402a02345d899392e8ce26d6c93?embed=img_i_l
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/US2DuoUS3MainEU3Quad_Right.map``
+
+EU2DuoEU3MainUS3Quad_
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad  Voting Ends:<t:1709791140:F>
+Left: https://rustmaps.com/map/cb59ffc1bd7d493ab58052a816aabdc2?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/EU2DuoEU3MainUS3Quad_Left.map``
+
+
+EU3DuoUS3Duo_
+EU 3x Monthly Duo & US 3x Monthly Duo    Voting Ends:<t:1709791140:F>
+Right: https://rustmaps.com/map/8e68b5ea6f3f4b0fbb1477525c91f77b?embed=img_i_l
+Right:``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/EU3DuoUS3Duo_Right.map``
+
+EU2SoloEU2Quad_
+EU 2x Monthly Solo & EU 2x Monthly Quad  Voting Ends: <t:1709791140:F>
+Right: https://rustmaps.com/map/5a538f23e8bf41a9927c85b585b2d5a4?embed=img_i_l
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/EU2SoloEU2Quad_Right.map``
+
+US2SoloUS2QuadEU2Low_
+US 2x Monthly Solo & US 2x Monthly Quad & EU 2x Monthly Low    Voting Ends:<t:1709791140:F>
+Right: https://rustmaps.com/map/b010258478524f168e965a48c0370f87?embed=img_i_l
+Right:``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/US2SoloUS2QuadEU2Low_Right.map``
+
+
+US 2x Monthly Main  Voting Ends:<t:1709748000:F> 
+B: https://rustmaps.com/map/b3a79c5d19174868bbd1b918f146dde9?embed=img_i_l
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/US2Main_EU2Main_B.map```
+
+US2Main_EU2Main_
+EU 2x Monthly Main   Voting Ends:<t:1709748000:F> 
+A: https://rustmaps.com/map/1b419c5989b64281bc76e60354404a25?embed=img_i_l
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/US2Main_EU2Main_A.map```
+
+
+
+USSmallEUSmall_
+US 2x Monthly Small & EU 2x Small  Voting Ends:<t:1709791140:F>
+Right: https://rustmaps.com/map/d88ea9e932104877916113f00ec6598b?embed=img_i_l
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/USSmallEUSmall_Right.map``
+
+
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1696478400:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_
+2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+Left: https://rustmaps.com/map/2a4f6f3a94e54f2abe310bf46f787823?embed=img_i_l
+Left: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/03-March%20Wipe/2xMain2xDuo_Left.map``
+
+
+2xQuad2xSolo_
+2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+Right: https://rustmaps.com/map/0bbc99f638714412b937d52f1fe17b3f?embed=img_i_l
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/03-March%20Wipe/2xQuad2xSolo_Right.map``
+
+
+2xTrio_
+2x Monthly Trio <t:1696478400:F>
+Right: https://rustmaps.com/map/fff06c93588a42728a6bdeba758234ce?embed=img_i_l
+Right: ``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/03-March%20Wipe/2xTrio_Right.map``
+
