@@ -111,3 +111,5 @@ A: https://rustmaps.com/map/f41401e5431a43b0993a62bdf230c043?embed=img_i_l
 B: https://rustmaps.com/map/f41401e5431a43b0993a62bdf230c043?embed=img_i_l
 C: https://rustmaps.com/map/101b2127ea0f47afbd103899913f61a9?embed=img_i_l
 D: https://rustmaps.com/map/c33abffb15094eb7bb5062be41a55ad8?embed=img_i_l
+E: https://rustmaps.com/map/d7930d8935524ce2b15a0667222c81dc?embed=img_i_l
+F: https://rustmaps.com/map/a1c5c2fcb6704f45b49e3cbd67577021?embed=img_i_l
