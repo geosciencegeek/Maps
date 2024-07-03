@@ -27,8 +27,7 @@ Right: ``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03
 US2SoloUS2QuadEU2Low_
 US 2x Monthly Solo & US 2x Monthly Quad & EU 2x Monthly Low    Voting Ends:<t:1709791140:F>
 Right: https://rustmaps.com/map/b010258478524f168e965a48c0370f87?embed=img_i_l
-Left: ``X``
-Right:``X``
+Right:``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/03-MarchWipe/US2SoloUS2QuadEU2Low_Right.map``
 
 
 US 2x Monthly Main  Voting Ends:<t:1709748000:F> 

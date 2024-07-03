@@ -1,0 +1,115 @@
+```
+# ---------------Renegade --------------------
+Premium +  1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+59 HOURS
+
+US2QuadEU2Low_05022024
+US 2x Quad / EU 2x Lowpop Voting Ends: <t:1714626000:F>
+
+Left:  https://rustmaps.com/map/08e13666491a4d38a1076b1f85b31580?embed=img_i_l
+Right:  https://rustmaps.com/map/663390b976a64fdf82693e64997cb63e?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2Quad_05022024
+EU 2x Quad Voting Ends: <t:1714626000:F>
+
+Left: https://rustmaps.com/map/c5c3dafddb1e455893dd6a82d598df57?embed=img_i_l
+Right: https://rustmaps.com/map/4cd4a6fce6bd4e689ffbb789a9abefea?embed=img_i_l
+Left: ``X``
+Right: ``X``  
+
+US2DuoEU3Quad_05022024_
+US 2x Duo / EU 3x Quad Voting Ends: <t:1714626000:F>
+
+Left: https://rustmaps.com/map/83e3f7c26cf4468a939693193a38669d?embed=img_i_l
+Right: https://rustmaps.com/map/b90b6e67faa2435ca353b9fcc8f40c96?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2DuoUS3Quad_05022024_
+EU 2x Duo / US 3x Quad  Voting Ends: <t:1714626000:F>
+
+Left: https://rustmaps.com/map/732785e1ebb44a749c257c9bade6507e?embed=img_i_l
+Right:https://rustmaps.com/map/7aa4ef872b6045ef8c7c2e4e5598fef2?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2SoloEU3MainUS3Duo_05022024
+US 2x Solo / EU 3x Main / US 3x Duo Voting Ends: <t:1714626000:F>
+
+Left: https://rustmaps.com/map/207c895f0bcb4e6a9db29f055da79500?embed=img_i_l
+Right: https://rustmaps.com/map/7b119569a4c4489d8a369e9b10b13d35?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2SoloUS3MainEU3Duo_05022024
+EU 2x Solo / US 3x Main / EU 3x Duo Voting Ends: <t:1714626000:F>
+
+Left: https://rustmaps.com/map/5ac24c499cba453ab2e9e2860be4a627?embed=img_i_l
+Right: https://rustmaps.com/map/6709b91527314c1db095d0d4924ed0df?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+US2Main_EU2Main_05022024_
+53HRS
+Which Map? A or B or C or D
+US 2x Monthly Main Voting Ends: <t:1714604400:F>
+EU 2x Monthly Main  Voting Ends: <t:1714604400:F>
+
+A: https://rustmaps.com/map/3ed27f7f2f7344eba462f5cb11750025?embed=img_i_l
+B: https://rustmaps.com/map/93faf4d372bb4c3fa910699ba79fedaa?embed=img_i_l
+C: https://rustmaps.com/map/d99613ad9f8b4d67a8456847e6fe3f3f?embed=img_i_l
+D: https://rustmaps.com/map/b2f2608e1a9f472093043f023e8fa2f3?embed=img_i_l
+
+
+
+USSmallEUSmall_05022024_
+
+US 2x Monthly Small & EU 2x Small Voting Ends: <t:1714626000:F>
+Left: https://rustmaps.com/map/108449d5a7e74f05b546e3af872ca536?embed=img_i_l
+Right:  https://rustmaps.com/map/4ae77f42ded948c78becbca70b567281?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1696478400:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_05022024
+2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+Left: https://rustmaps.com/map/fb2593ba6d4e4fc9880bb4666d946ebb?embed=img_i_l
+Right: https://rustmaps.com/map/dcff83589fbb4c76916fed616d064827?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo_05022024
+2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+Left: https://rustmaps.com/map/e2c8768247584b7d883ca120fea3d6e9?embed=img_i_l
+Right: https://rustmaps.com/map/41ea959fcb3f4839aa07c60e5148aad9?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+2xTrio_05022024
+2x Monthly Trio <t:1696478400:F>
+Left: https://rustmaps.com/map/0de03cfb4bee467396304ff3cfd58925?embed=img_i_l
+Right: https://rustmaps.com/map/dda34c65d5634e66aa918689db3cad2a?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+
+----------------------------------------------------------
+3500_05022024_
+A: https://rustmaps.com/map/f41401e5431a43b0993a62bdf230c043?embed=img_i_l
+
+C: https://rustmaps.com/map/101b2127ea0f47afbd103899913f61a9?embed=img_i_l
+D: https://rustmaps.com/map/c33abffb15094eb7bb5062be41a55ad8?embed=img_i_l
+E: https://rustmaps.com/map/d7930d8935524ce2b15a0667222c81dc?embed=img_i_l
+F: https://rustmaps.com/map/a1c5c2fcb6704f45b49e3cbd67577021?embed=img_i_l

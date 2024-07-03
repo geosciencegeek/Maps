@@ -1,0 +1,116 @@
+```57
+63        
+# ---------------Renegade --------------------
+Premium +  1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+
+US2QuadEU2Low_06062024
+US 2x Quad / EU 2x Lowpop
+Left: https://rustmaps.com/map/093536e0ac6b4c85a35864c1880449bc?embed=img_i_l
+Right:  https://rustmaps.com/map/3073b3c02d484d46ae9f30c338f6c4e6?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2Quad_06062024
+EU 2x Quad
+Left: https://rustmaps.com/map/8921bee4574e4acc9c8cc78367c20195?embed=img_i_l
+Right: https://rustmaps.com/map/f6c8158e9a494467adf4518b1ca17342?embed=img_i_l
+Left: ``X``
+Right: ``X``  
+
+US2DuoEU3Quad_06062024_
+US 2x Duo / EU 3x Quad
+Left: https://rustmaps.com/map/be9824956ca640c9af33dcb7c352a2ed?embed=img_i_l
+Right: https://rustmaps.com/map/7c1877cac56d4ca6bec611a6426d452e?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2DuoUS3Quad_06062024
+EU 2x Duo / US 3x Quad 
+Left: https://rustmaps.com/map/f65d3faed3c343c0a93ad228fa003de8?embed=img_i_l
+Right: https://rustmaps.com/map/db14468910534bb49b15260ebe28f556?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2SoloEU3MainUS3Duo_06062024
+US 2x Solo / EU 3x Main / US 3x Duo
+Left: https://rustmaps.com/map/047bd874dfe048c5ad29e1d39d95f189?embed=img_i_l
+Right: https://rustmaps.com/map/b15640e5ab9e4b1ca67821035b125b97?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2SoloUS3MainEU3Duo_06062024
+EU 2x Solo / US 3x Main / EU 3x Duo
+Left: https://rustmaps.com/map/f7132b1a52d54fd693b0fc82a38bd912?embed=img_i_l
+Right: https://rustmaps.com/map/74157a30a54c4ffd89cebb4f70d1ab23?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+EU2MainUS2Main_06062024
+
+US 2x Monthly Main 
+A: https://rustmaps.com/map/ba257208bd0f4e1e8a59755d1eace3a3?embed=img_i_l
+B: https://rustmaps.com/map/9fd009b25cad454188fb795daece545a?embed=img_i_l
+C: https://rustmaps.com/map/081bb118fb0d4179bc04f5a5a6128449?embed=img_i_l
+D: https://rustmaps.com/map/8f0b84e95f8e418caac749c931db9f17?embed=img_i_l
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+
+USSmallEUSmall_06062024
+
+US 2x Monthly Small & EU 2x Small
+Left: https://rustmaps.com/map/ec7a43b337d44e8abed219641f0a817a?embed=img_i_l
+Right: https://rustmaps.com/map/15212656bc0c49ddb1fd62e823b43ca2?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1696478400:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_06062024
+2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+Left: https://rustmaps.com/map/5b39e0567ac640e397954a7f7e13df3a?embed=img_i_l
+Right: https://rustmaps.com/map/9b46165164d64ce5af57eda559fbca50?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo_06062024
+2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+Left: https://rustmaps.com/map/1efd6c94395a4d7f84facbf3f6300eed?embed=img_i_l
+Right: https://rustmaps.com/map/3d69b845b2f741b682fc8c1b14a45da7?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+2xTrio_06062024
+2x Monthly Trio <t:1696478400:F>
+Left: https://rustmaps.com/map/4607671b6b91492ea9f4438d49b40fc3?embed=img_i_l
+Right: https://rustmaps.com/map/90c274ed2d5b48c7a237189ba35b080b?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+----------------------------------------------------------
+5x
+A: https://rustmaps.com/map/d1f6267acf56474f951b2f0d9716fd0e?embed=img_i_l
+B: https://rustmaps.com/map/8f85039aa12c445ba4b2ed924c4d2b18?embed=img_i_l
+C: https://rustmaps.com/map/dfdca5f44f684254ad14e47e7311101d?embed=img_i_l
+D: https://rustmaps.com/map/fca8af776173496285a65117835ffb7e?embed=img_i_l
+E: https://rustmaps.com/map/57ccbeffdda7495a9c447379b3f3c288?embed=img_i_l
+F: https://rustmaps.com/map/3c20152e52c04da3b59045f2ec347275?embed=img_i_l
+G: https://rustmaps.com/map/2bba43750b754686b1b7524716caecab?embed=img_i_l
+H: https://rustmaps.com/map/607bb7f5170d4147ba90288175ff2cbe?embed=img_i_l
+I: https://rustmaps.com/map/cb6cb2a267ec4e0c8650bfa79bb9b45e?embed=img_i_l
+J: https://rustmaps.com/map/4b81f6d168914afb9991d63ca34b2d0c?embed=img_i_l
+K:
+L:
+M:
+N:
+O:

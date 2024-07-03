@@ -1,45 +1,45 @@
 ```
 # ---------------Renegade --------------------
-Premium + 1148592256350179459 1148653253291159562 6 
+Premium + 1148653253291159562 6 
 Premium 1148651799629287535 3
 Which Map? Left or Right
 
-US2QuadEU2Low_05022024
+US2QuadEU2Low_4000_07042024
 US 2x Quad / EU 2x Lowpop
 Left: 
 Right:  
 Left: ``X``
 Right: ``X``
 
-EU2Quad_05022024
+EU2Quad_4000_07042024
 EU 2x Quad
 Left:
 Right: 
 Left: ``X``
 Right: ``X``  
 
-US2DuoEU3Quad_05022024
+US2DuoEU3Quad__3750_07042024
 US 2x Duo / EU 3x Quad
 Left: 
 Right: 
 Left: ``X``
 Right:``X``
 
-EU2DuoUS3Quad_05022024
+EU2DuoUS3Quad_3750_07042024
 EU 2x Duo / US 3x Quad 
 Left: 
 Right:
 Left: ``X``
 Right: ``X``
 
-US2SoloEU3MainUS3Duo_05022024
+US2SoloEU3MainUS3Duo_3750_07042024
 US 2x Solo / EU 3x Main / US 3x Duo
 Left: 
 Right:
 Left: ``X``
 Right: ``X``
 
-EU2SoloUS3MainEU3Duo_05022024
+EU2SoloUS3MainEU3Duo_3750_07042024
 EU 2x Solo / US 3x Main / EU 3x Duo
 Left: 
 Right:
@@ -47,24 +47,18 @@ Left: ``X``
 Right: ``X``
 
 
-US2Main_05022024_
-
+US2MainEU2Main_4250_07042024
+EU 2x Monthly Main 
 US 2x Monthly Main 
-Left: 
-Right: 
-Left: ``X``
-Right: ``X``
+A:
+B:
+C:
+D:
 
-EU2Main_05022024_
 
-EU 2x Monthly Main  
-Left: 
-Right:
-Left: ``X``
-Right: ``X``
 
-USSmallEUSmall_05022024_
 
+USSmallEUSmall_3500_07042024
 US 2x Monthly Small & EU 2x Small
 Left: 
 Right: 
@@ -74,26 +68,27 @@ Right: ``X``
 
 
 # ------------------------Rustolution ----------------------------
-Which Map? Left or Right <t:1696478400:F>
+Which Map? Left or Right 
 Premium + 1148651281452384407 6
 Premium 1148608415476748431 3
-2xMain2xDuo_05022024
-2x Monthly Main & 2x Monthly Duo <t:1696478400:F>
+
+2xMain2xDuo_07042024
+2x Monthly Main & 2x Monthly Duo 
 Left:
 Right:
 Left: ``X``
 Right: ``X``
 
-2xQuad2xSolo_05022024
-2x Monthly Quad & 2x Monthly Solo <t:1696478400:F>
+2xQuad2xSolo_07042024
+2x Monthly Quad & 2x Monthly Solo 
 Left:
 Right:
 Left: ``X``
 Right: ``X``
 
 
-2xTrio_05022024
-2x Monthly Trio <t:1696478400:F>
+2xTrio_07042024
+2x Monthly Trio 
 Left: 
 Right:
 Left: ``X``

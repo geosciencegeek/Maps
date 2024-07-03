@@ -1,0 +1,46 @@
+# Byte Panel --------------------------------------------------------------------------------------------------------------
+RR EU 2x Small Left
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/USSmallEUSmall_04042024_Right.map```
+RR EU 2x Quad 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xDuo_EU2xQuad_US2xSolo_04042024_Right.map```
+RR EU 2x Low 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xDuo_US2xQuad_EU2xSolo_04042024_Left.map```
+RR EU 3x Quad 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xMain_US2xDuo_EU3xQuad_04042024_Right.map```
+RR EU 2x  Main 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US2Main_EU2Main_04042024_C.map```
+RR US 3x Main 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xMain_EU2xDuo_US3xQuad_04042024_Left.map```
+RR US 3x Quad
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xMain_EU2xDuo_US3xQuad_04042024_Left.map```
+RR US 3x Duo 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xDuo_EU2xQuad_US2xSolo_04042024_Right.map```
+RR EU 2x Duo 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xMain_EU2xDuo_US3xQuad_04042024_Left.map```
+RR EU 3x Main 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xMain_US2xDuo_EU3xQuad_04042024_Right.map```
+RR EU 2x Solo 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xDuo_US2xQuad_EU2xSolo_04042024_Left.map```
+RR US 2x Solo
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US3xDuo_EU2xQuad_US2xSolo_04042024_Right.map```
+RR EU 3x Duo 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xDuo_US2xQuad_EU2xSolo_04042024_Left.map```
+RR US 2x Main:
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/US2Main_EU2Main_04042024_A.map```
+# Aspect Panel --------------------------------------------------------------------------
+Rustolution 2x Monthly Main
+```https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/04-April%20Wipe/2xMain2xDuo_04042024_Right.map```
+Rustolution 2x Monthly Quad
+```https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/04-April%20Wipe/2xQuad2xSolo_04042024_Left.map```
+Rustolution 2x Monthly Trio
+``https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/04-April%20Wipe/2xTrio_04042024_Right.map````
+Rustolution 2x Monthly Duo : 
+```https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/04-April%20Wipe/2xMain2xDuo_04042024_Right.map```
+RR US 2x DUO :
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xMain_US2xDuo_EU3xQuad_04042024_Right.map```
+RR US 2x Small   
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/USSmallEUSmall_04042024_Right.map```
+RR US 2x Quad : 
+```https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/2024/04-AprilWipe/EU3xDuo_US2xQuad_EU2xSolo_04042024_Left.map```
+Rustolution 2x Monthly Solo :
+```https://github.com/geosciencegeek/Maps/raw/main/Rustolution%20Maps/2024/04-April%20Wipe/2xQuad2xSolo_04042024_Left.map```
