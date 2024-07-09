@@ -44,7 +44,7 @@ Right: ``X``
 EU2SoloUS3MainEU3Duo_3750_07042024
 EU 2x Solo / US 3x Main / EU 3x Duo
 Left:  https://rustmaps.com/map/797b0040671042168a6860a3b1825f4b?embed=img_i_l
-Right:
+Right: https://rustmaps.com/map/134f47cb1cc24809ab70cac086e61aab?embed=img_i_l
 Left: ``X``
 Right: ``X``
 
