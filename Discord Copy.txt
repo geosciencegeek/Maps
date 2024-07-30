@@ -1,13 +1,9 @@
 # Byte Panel --------------------------------------------------------------------------------------------------------------
-RR EU 2x Small Left
-``````
-RR EU 2x Quad 
+RR EU 2x Small
 ``````
 RR EU 2x Low 
 ``````
 RR EU 3x Quad 
-``````
-RR EU 2x  Main 
 ``````
 RR US 3x Main 
 ``````
@@ -21,12 +17,15 @@ RR EU 3x Main
 ``````
 RR EU 2x Solo 
 ``````
-RR US 2x Solo
+RR EU 3x Duo
 ``````
-RR EU 3x Duo 
+RR EU 2x Quad
 ``````
-RR US 2x Main:
+RR EU 2x Main
 ``````
+RR US 2x Quad
+``````
+
 # Aspect Panel --------------------------------------------------------------------------
 Rustolution 2x Monthly Main
 ``````
@@ -40,7 +39,9 @@ RR US 2x DUO :
 ``````
 RR US 2x Small   
 ``````
-RR US 2x Quad : 
-``````
 Rustolution 2x Monthly Solo :
+``````
+RR US 2x Solo
+``````
+RR US 2x Main:
 ``````

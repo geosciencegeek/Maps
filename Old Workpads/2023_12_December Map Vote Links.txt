@@ -1,0 +1,142 @@
+```55
+# ---------------Renegade --------------------
+Premium + 1148592256350179459 1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_1207_
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad  <t:1701928800:F>
+Left: https://rustmaps.com/map/526a06a21961474c8721002b1cff6471?embed=img_i_l
+Right: https://rustmaps.com/map/2545f161ba4046cf938332132eab6453?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2DuoEU3MainUS3QuadUS1Duo_1207_
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad & US 1x Monthly Duo  <t:1701928800:F>
+Left: https://rustmaps.com/map/ec79bc502c3f49ad8ab67f3e90af076f?embed=img_i_l
+Right: https://rustmaps.com/map/e3765ef8cedc419aa69a93f8be90ec9e?embed=img_i_l
+Left: ``X``
+Right: ``X``  
+
+EU3DuoUS3DuoUS1Quad_1207_
+EU 3x Monthly Duo & US 3x Monthly Duo & US 1x Monthly Quad  <t:1701928800:F>
+Left: https://rustmaps.com/map/a79a572d62064e078889a9e839656c0b?embed=img_i_l
+Right: https://rustmaps.com/map/b38ce42e7ff2431d9a36f3570dbef6b4?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2SoloEU2QuadUS1Main_1207_
+EU 2x Monthly Solo & EU 2x Monthly Quad & US 1x Monthly Main <t:1701928800:F>
+Left: https://rustmaps.com/map/6432f814a77844a79fd53bd1cdc5ded8?embed=img_i_l
+Right: https://rustmaps.com/map/3dd9881413cd40cab52e03bf2b966997?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2SoloUS2QuadEU2Low_1207_
+US 2x Monthly Solo & US 2x Monthly Quad & EU 2x Monthly Low  <t:1701928800:F>
+Left: https://rustmaps.com/map/be1d3ef30559468699b98b2acf33c645?embed=img_i_l
+Right: https://rustmaps.com/map/a26bedddfeed428a910a6622cb2be2ac?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2Main_US2Main_1207_
+EU 2x Monthly Main <t:1701885600:F>
+US 2x Monthly Main <t:1701885600:F>
+A: https://rustmaps.com/map/99064e4cbd364df7b9a715be98586405?embed=img_i_l
+B: https://rustmaps.com/map/14e69a3a09cc45198317b89b0ec3d4e4?embed=img_i_l
+C: https://rustmaps.com/map/f5d009474a644252b83f481059e0686a?embed=img_i_l
+D: https://rustmaps.com/map/c668eb9d98a54277ba61e85747c43586?embed=img_i_l
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+USSmallEUSmall_1207_
+US 2x Monthly Small & EU 2x Small <t:1701928800:F>
+Left: https://rustmaps.com/map/32d520d93a9849ed9c38ad1b497b0d14?embed=img_i_l
+Right: https://rustmaps.com/map/899535ebbfd14d088a24142535d6067a?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+Extra 3500s
+A: (Missing Air Sat) https://rustmaps.com/map/97ef24e61ae3487386bf91095ec727c9?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/A_3500_1207.map``
+
+B: (Missing Air Water Sat) https://rustmaps.com/map/96613445ad2d443981927b51633fe5f8?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/B_3500_1207.map``
+
+C: (Missing Air Water Sat) https://rustmaps.com/map/c1ec7a7fdf1946d3879acb608b1828ba?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/C_3500_1207.map``
+
+D: (Missing Air Sat) https://rustmaps.com/map/da33aab7400e406fa7c0161be9c012a6?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/D_3500_1207.map``
+
+E: (Missing Air Water Sat) https://rustmaps.com/map/51357944bec24037956844c1bad3fa8a?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/E_3500_1207.map``
+
+F: (Missing Air Water Sat) https://rustmaps.com/map/6f318bff2ae24aeaa78be71761a32f1a?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/F_3500_1207.map``
+
+G: (Missing Air Sat) https://rustmaps.com/map/da33aab7400e406fa7c0161be9c012a6?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/G_3500_1207.map``
+
+H: (Missing Air Sat) https://rustmaps.com/map/e0e7618f7416483dae3354a68f283709?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/H_3500_1207.map``
+
+I: (Missing Air Sat) https://rustmaps.com/map/6a47f0ec197d47d886e3ff88763785f0?embed=img_i_l
+``https://github.com/geosciencegeek/Maps/raw/main/Renegade%20Maps/12-December%20Wipe/3500/H_3500_1207.map``
+
+
+
+
+# ------------------------RustStatic ----------------------------
+Voting Ends: <t:1698897600:F>
+EU2Duo_AU2Quad_US2Main_1207_
+EU 2x Monthly Duo / AU 2x Monthly Quad / US 2x Monthly Main
+Left:  https://rustmaps.com/map/ecec3285c7694c02a76900c96a50d953?embed=img_i_l 
+Right: https://rustmaps.com/map/002d1c72a1a14304b3d10cbc2538cb5a?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+US2Duo_EU2Quad_AU2Main_1207_
+US 2x Monthly Duo / EU 2x Monthly Quad / AU 2x Monthly Main
+Left: https://rustmaps.com/map/fb478d9efb6f4dc8ae41001954230f83?embed=img_i_l
+Right:  https://rustmaps.com/map/ee01b76b9e2246f89be30252169053dd?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+AU2Duo_US2Quad_EU2Main_1207_
+AU 2x Monthly Duo / US 2x Monthly Quad / EU 2x Monthly Main
+Left: https://rustmaps.com/map/4f1a7f9fe3804f2298a0922e0124fa05?embed=img_i_l
+Right: https://rustmaps.com/map/a1aa06ba9f9445fa88eda04a05107a8b?embed=img_i_l
+Left:``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right <t:1701928800:F>
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+
+2xMain2xDuo_1207_
+2x Monthly Main & 2x Monthly Duo <t:1701928800:F>
+Left: https://rustmaps.com/map/49dc6f2b6c274d7897294acbbf84cfc4?embed=img_i_l
+Right: https://rustmaps.com/map/39d3d4cd3a364cd5a53c8c6700e787d3?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo_1207_
+2x Monthly Quad & 2x Monthly Solo <t:1701928800:F>
+Left: https://rustmaps.com/map/50d271b5de7643f18798b42f22f681e3?embed=img_i_l
+Right: https://rustmaps.com/map/1e3e47a2fa8a458db6108c791344973c?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+2xTrio_1207_
+2x Monthly Trio <t:1701928800:F>
+Left:  https://rustmaps.com/map/f4a6e74bce954cb189f3b6e2c715f8af?embed=img_i_l
+Right: https://rustmaps.com/map/a08b78aa10d1494e8f68c21c0e49be1e?embed=img_i_l
+Left: ``X``
+Right: ``X``
