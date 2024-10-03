@@ -2,6 +2,8 @@ US Main & EU Main MAP Voting ENDS <t:1727928000:F>
 All other Server MAP Voting Ends: <t:1727928000:F>
 ```
 # ---------------Renegade --------------------
+Owner: 686333809838260271 5
+Manager: 1103213612379676693 4
 Premium + 1148653253291159562 6 
 Premium 1148651799629287535 3
 Which Map? Left or Right
@@ -72,8 +74,8 @@ D: https://rustmaps.com/map/20b929c61fd042f18e63ddf39f0c6aec?embed=img_i_l
 
 USSmallEUSmall_3500_10032024
 US 2x Monthly Small & EU 2x Small
-Left: 
-Right:  
+Left: https://rustmaps.com/map/0362f65f7e2342cbb8af313c1651ed9d?embed=img_i_l
+Right:  https://rustmaps.com/map/e2fc404708454533af0be72fd037164a?embed=img_i_l
 Left: ``X``
 Right: ``X``
 
